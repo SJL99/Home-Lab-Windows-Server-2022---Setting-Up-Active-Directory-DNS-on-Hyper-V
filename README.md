@@ -1,7 +1,5 @@
 # Home-Lab-Windows-Server-2022---Setting-Up-Active-Directory-DNS-on-Hyper-V
-Windows Server 2022 Home Lab: Setting Up Active Directory &amp; DNS on Hyper-V to simulate an Organizational Structure
-
-# Enterprise Active Directory & DNS Deployment (Windows Server 2022)
+Windows Server 2022 Home Lab: Setting Up Active Directory &amp; DNS on Hyper-V to simulate an organizational Structure
 
 ## Project Overview
 The objective of this project was to gain hands-on experience managing Active Directory and understanding corporate IT structures. To achieve this, I built an isolated virtual environment in Hyper-V and deployed a Windows Server 2022 Domain Controller from scratch. The full scope of the project involved configuring DNS, setting up Active Directory Domain Services (AD DS), establishing a realistic Organizational Unit (OU) hierarchy, and provisioning user accounts. Finally, I deployed a Windows 11 Enterprise client and successfully joined it to the domain to verify centralized identity management and authentication.
